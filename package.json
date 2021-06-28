@@ -4,8 +4,7 @@
   "author": "Katrina Owen",
   "private": true,
   "repository": {
-    "type": "git",
-    "url": "https://github.com/exercism/javascript"
+    "type": "git"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
