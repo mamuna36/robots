@@ -1,6 +1,6 @@
 {
-  "name": "@exercism/javascript",
-  "description": "Exercism exercises in Javascript.",
+  "name": "robots",
+  "description": "Robots with javascript",
   "author": "Katrina Owen",
   "private": true,
   "repository": {
